@@ -1,0 +1,16 @@
+{
+  "name": "node.js-image-uploader",
+  "version": "1.0.0",
+  "description": "a simple image upload site for node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Furtsy",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "darkmode-js": "^1.5.5"
+  }
+}
